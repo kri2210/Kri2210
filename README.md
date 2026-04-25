@@ -24,14 +24,16 @@ I enjoy turning ideas into practical solutions and continuously learning new tec
 ### 🛠️ Tech Stack
 
 * **Frontend:**
-   *HTML
-   *CSS
-   *JavaScript
-   *React
+    *HTML
+    *CSS
+    *JavaScript
+    *React
 
 * **Backend:**
   * Node.js
   * Express
+  * Django
+  * Fastapi
 
 
 * **Database:**
