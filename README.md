@@ -38,7 +38,7 @@ I enjoy turning ideas into practical solutions and continuously learning new tec
   * MongoDB
   * Postgres
 
-*  **Languages**
+* **Languages**
   *  Python
   *  Java
   *  C
