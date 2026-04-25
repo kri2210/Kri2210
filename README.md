@@ -23,10 +23,25 @@ I enjoy turning ideas into practical solutions and continuously learning new tec
 
 ### 🛠️ Tech Stack
 
-* **Frontend:** HTML, CSS, JavaScript, React
-* **Backend:** Node.js, Express
-* **Database:** MongoDB
-* **Other:** Python, TensorFlow, Git, Streamlit
+* **Frontend:**
+  *HTML
+  *CSS
+  *JavaScript
+  *React
+* **Backend:**
+* Node.js
+* Express
+* **Database:**
+* MongoDB
+* Postgres
+*  **Languages**
+*  Python
+*  Java
+*  C
+* **Other:**
+* TensorFlow
+*  Git
+*  Streamlit
 
 ---
 
