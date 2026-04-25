@@ -28,16 +28,22 @@ I enjoy turning ideas into practical solutions and continuously learning new tec
   *CSS
   *JavaScript
   *React
+
 * **Backend:**
-* Node.js
-* Express
+  * Node.js
+  * Express
+
+
 * **Database:**
 * MongoDB
 * Postgres
+
 *  **Languages**
 *  Python
 *  Java
 *  C
+
+
 * **Other:**
 * TensorFlow
 *  Git
