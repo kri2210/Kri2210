@@ -53,7 +53,7 @@ These activities help me stay focused, disciplined, and creative.
 
 ### 📫 Connect With Me
 
-* LinkedIn: www.linkedin.com/in/krish-shah-221005
+* LinkedIn: www.linkedin.com/in/krish-shah22
 
 * Email: krishmehul2005@gmail.com
 
