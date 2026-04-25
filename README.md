@@ -56,7 +56,7 @@ I enjoy turning ideas into practical solutions and continuously learning new tec
 ### 📌 Projects
 
 * ⚽ **Game Grid** – Platform to discover, join, and manage sports events
-* Classroom Slot Reservation System-A web-based system designed to manage and optimize classroom availability in college, improving resource utilization and scheduling.
+* 🏫 **Classroom Slot Reservation System** – Efficient room management system
 * 🍅 **Tomato Disease Predictor** – AI-based plant disease detection system
 
 ---
