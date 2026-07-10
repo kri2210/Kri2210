@@ -22,7 +22,7 @@ I enjoy turning ideas into practical solutions and continuously learning new tec
 ---
 
 ### 🛠️ Tech Stack
-* **Automation**
+* **Automation:**
  * N8N
  * WorkFlow Automation
  * Rest Api Integration
